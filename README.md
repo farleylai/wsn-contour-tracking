@@ -1,0 +1,2 @@
+# wsn-contour-tracking
+Our project will be to study and implement different algorithms for tracking contours on wireless sensor networks. To achieve the goal, we will need to set up a grid where a mote with a light sensor is located at each vertex. Each mote will be sending feedback to our laptop where all the data will be analyzed. We will estimate how the light is being dispersed throughout the grid using the intensity of the light sensed at the vertexes.
